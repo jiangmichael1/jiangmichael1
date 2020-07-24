@@ -10,7 +10,7 @@
 💬 Ask me about anything! </br>
 
 📫 You can reach me at jiangm1@yahoo.com. </br>
-📝 I also blog frequently! Check me out at: <a href="https://medium.com/@jiams">My Medium Profile</a> </br>
+📝 I also blog frequently! Check me out at: <a href="https://medium.com/@jiams" target="_blank">My Medium Profile</a> </br>
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I'm blind in my right eye! 👁️⚫
