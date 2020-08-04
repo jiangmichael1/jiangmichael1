@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/jiangmichael1">
-    <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&count_private=true&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
