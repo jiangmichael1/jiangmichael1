@@ -4,8 +4,13 @@
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jiams)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiangmichael1@gmail.com)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:jiangm1@yahoo.com)
-### 📚 Full Stack Web Developer 
-### 🍵 Ex-Mental Health Counselor
+<br />
+<span align="left" display="inline-block">
+  <h3>📚 Full Stack Web Developer </h3>
+</span>
+<span align="right" display="inline-block">
+  <h3> Ex-Mental Health Counselor 🍵 </h3>
+</span>
 <br />
 <p>
   <a href="https://github.com/jiangmichael1">
