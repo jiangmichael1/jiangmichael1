@@ -12,8 +12,6 @@
 
 <h3 align="center">📚 Full Stack Web Developer & Ex-Mental Health Counselor 🍵 </h3>
 
-
-<h3>Languages & Tools</h3>
 <p>
   <a href="https://github.com/jiangmichael1">
     <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&count_private=true&theme=buefy&show_icons=true&hide_border=true" />
