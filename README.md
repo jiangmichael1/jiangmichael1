@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangmichael1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangmichael1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiangmichael1@gmail.com)
-[![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:jiangmichael1@gmail.com)
+[![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2)](mailto:jiangm1@yahoo.com)
 ### 📚 Full Stack Web Developer 
 ### 🍵 Ex-Mental Health Counselor
 <br />
