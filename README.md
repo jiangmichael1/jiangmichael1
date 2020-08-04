@@ -30,7 +30,7 @@
 </p>
 <br />
 
-💻 I’m currently working on recreating my module 5 project using more HTML and CSS.</br>
+💻 I’m currently working on recreating my module 5 project using more HTML and CSS (Sass!).</br>
 🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> </br>
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
 🤔 I’m also seeking assistance/mentoring with front-end design!</br>
