@@ -1,16 +1,15 @@
-# 👋 Hey! My name is Michael. 😄 
+<h1 align="center"> 👋 Hey! My name is Michael. 😄 </h1>
+<div align="center">
+  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangmichael1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangmichael1/)
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jiams)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiangmichael1@gmail.com)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:jiangm1@yahoo.com)
+
+</div>
 <br />
-<span align="left" display="inline-block">
-  <h3>📚 Full Stack Web Developer </h3>
-</span>
-<span align="right" display="inline-block">
-  <h3> Ex-Mental Health Counselor 🍵 </h3>
-</span>
+<h3>📚 Full Stack Web Developer </h3><h3 align="right"> Ex-Mental Health Counselor 🍵 </h3>
 <br />
 <p>
   <a href="https://github.com/jiangmichael1">
