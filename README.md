@@ -1,8 +1,9 @@
 ## Hey! My name is Michael. 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangmichael1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangmichael1/)
+[![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jiams)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiangmichael1@gmail.com)
-[![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2)](mailto:jiangm1@yahoo.com)
+[![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:jiangm1@yahoo.com)
 ### 📚 Full Stack Web Developer 
 ### 🍵 Ex-Mental Health Counselor
 <br />
@@ -36,10 +37,7 @@
 
 💬 Feel free to ask me about anything! </br>
 
-📫 You can reach me at jiangm1@yahoo.com. </br>
-📝 I also blog frequently! Check me out at: <a href="https://medium.com/@jiams" target="_blank">My Medium Profile</a> </br>
 😄 Pronouns: He/Him
-
 ⚡ Fun fact: I'm blind in my right eye! 👁️⚫
 
 <!--
