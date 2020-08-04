@@ -1,4 +1,4 @@
-## Hey! My name is Michael. 
+## 👋 Hey! My name is Michael. 😄 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangmichael1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangmichael1/)
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jiams)
@@ -30,14 +30,15 @@
 </p>
 <br />
 
-🔭 I’m currently working on recreating my module 5 project using more HTML and CSS.</br>
+💻 I’m currently working on recreating my module 5 project using more HTML and CSS.</br>
 🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> </br>
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
 🤔 I’m also seeking assistance/mentoring with front-end design!</br>
 
 💬 Feel free to ask me about anything! </br>
 
-😄 Pronouns: He/Him
+👉 Pronouns: He/Him
+<br />
 ⚡ Fun fact: I'm blind in my right eye! 👁️⚫
 
 <!--
