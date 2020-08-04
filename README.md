@@ -1,15 +1,18 @@
 <h1 align="center"> 👋 Hey! My name is Michael. 😄 </h1>
-<div align="center">
-  <h3>📚 Full Stack Web Developer </h3>
-  
+
+    
+
+      
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jiangmichael1)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangmichael1/)
   [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jiams)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiangmichael1@gmail.com)
   [![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:jiangm1@yahoo.com)
   
-  <h3 align="right"> Ex-Mental Health Counselor 🍵 </h3>
-</div>
+<h3>📚 Full Stack Web Developer </h3>
+<h3> Ex-Mental Health Counselor 🍵 </h3>
+
+
 <p>
   <a href="https://github.com/jiangmichael1">
     <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&count_private=true&theme=buefy&show_icons=true&hide_border=true" />
