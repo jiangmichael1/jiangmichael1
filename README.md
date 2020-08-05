@@ -21,16 +21,16 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><a href="https://www.ruby-lang.org/en/"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
-  <code><a href="https://www.javascript.com/" target="_blank"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><a href="https://www.javascript.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+  <code><a href="https://reactjs.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><a href="https://www.python.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://sass-lang.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><a href="https://www.postgresql.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+  <code><a href="https://github.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+  <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 </p>
 <br />
 
