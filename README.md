@@ -31,11 +31,11 @@
 </p>
 <br />
 <br />
-💻 I’m in the initial stages of recreating my mod 5 project using more HTML and implementing Sass!</br>
-🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> </br>
-🧮 I'm also working on my strongest weak-point: Data Structure and Algorithms!  
-👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
-🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!</br>
+💻 I’m in the initial stages of recreating my mod 5 project using more HTML and implementing Sass!<br/>
+🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> 
+🧮 I'm also working on my strongest weak-point: Data Structure and Algorithms! <br/>
+👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. 
+🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!<br/>
 
 <br/>
 <p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
