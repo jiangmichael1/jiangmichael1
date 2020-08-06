@@ -31,16 +31,16 @@
 </p>
 <br />
 
-💻 I’m currently working on recreating my module 5 project using more HTML and CSS (Sass!).</br>
+💻 I’m in the initial stages of recreating my module 5 project using more HTML and implementing Sass!</br>
 🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> </br>
 🧮 I'm also working on my strongest weak-point: Data Structure and Algorithms!  
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
 🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!</br>
 
 <p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
-
+<br/>
 <p align="center">👉 <b>Pronouns</b><br/> He/Him/His</p>
-<br />
+<br/>
 <p align="center"> ⚡ <b>Fun Fact</b> 🌟 <br/>I'm blind in my right eye! <br/>👁️⚫</p>
 
 <!--**jiangmichael1/jiangmichael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
