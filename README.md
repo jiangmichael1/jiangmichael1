@@ -32,8 +32,7 @@
 <br />
 <br />
 💻 I’m in the initial stages of recreating my mod 5 project using more HTML and implementing Sass!<br/>
-
-
+<br/>
 🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> <br/>
 🧮 I'm also working on my strongest weak-point: Data Structure and Algorithms! <br/>
 
