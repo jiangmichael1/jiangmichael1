@@ -37,7 +37,7 @@
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
 🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!</br>
 
-💬 Feel free to ask me about anything! </br>
+<p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
 
 <p align="center">👉 <b>Pronouns</b><br/> He/Him/His</p>
 <br />
