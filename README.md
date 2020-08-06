@@ -17,9 +17,6 @@
     <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&count_private=true&theme=buefy&show_icons=true&hide_border=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><a href="https://www.ruby-lang.org/en/"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
   <code><a href="https://www.javascript.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="https://reactjs.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
@@ -36,18 +33,14 @@
 
 💻 I’m currently working on recreating my module 5 project using more HTML and CSS (Sass!).</br>
 🌱 I’m currently learning HTML5/CSS3 - specifically Sass/SCSS. <i>I'm familiar with the BEM methodology.</i> </br>
+🧮 I'm also working on my strongest weak-point: Data Structure and Algorithms!  
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields. </br>
-🤔 I’m also seeking assistance/mentoring with front-end design!</br>
+🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!</br>
 
 💬 Feel free to ask me about anything! </br>
 
-👉 Pronouns: He/Him
+👉 Pronouns: He/Him/His
 <br />
 ⚡ Fun fact: I'm blind in my right eye! 👁️⚫
 
-<!--
-**jiangmichael1/jiangmichael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
--->
+<!--**jiangmichael1/jiangmichael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
