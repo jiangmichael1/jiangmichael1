@@ -39,8 +39,8 @@
 
 💬 Feel free to ask me about anything! </br>
 
-👉 Pronouns: He/Him/His
+<p align="center">👉 <b>Pronouns</b><br/> He/Him/His</p>
 <br />
-⚡ Fun fact: I'm blind in my right eye! 👁️⚫
+<p align="center"> ⚡ <b>Fun Fact</b> 🌟 <br/>I'm blind in my right eye! <br/>👁️⚫</p>
 
 <!--**jiangmichael1/jiangmichael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
