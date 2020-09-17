@@ -39,6 +39,13 @@
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields.<br/> 
 🤔 I’m also seeking assistance/mentoring with front-end design and joining the tech workforce!<br/>
 
+<h3 align="center"> Project Demos </h3>
+<div align="center">
+  <a href="https://youtu.be/dPf9qrEST_w">Flat News | </a> 
+  <a href="https://youtu.be/MXSXUCAqZrQ">The Flatiron Experience Board Game | </a> 
+  <a href="https://youtu.be/2pqRaRD6gM8">Pet Date</a> 
+</div>
+
 
 <br/>
 <p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
