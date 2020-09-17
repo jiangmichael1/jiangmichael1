@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">📚 Full Stack Web Developer & Ex-Mental Health Counselor 🍵 </h3>
-<h4 align="center">Proud team member of SanoMind, the Spotify of Mental Health! </h4>
+<h4 align="center">✨Proud team member of SanoMind, the Spotify of Mental Health!✨ </h4>
 
 <p>
   <a href="https://github.com/jiangmichael1">
