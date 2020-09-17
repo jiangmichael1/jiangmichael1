@@ -34,7 +34,7 @@
 <br />
 💻 I’m in the initial stages of recreating my mod 5 project using more HTML and implementing Sass!<br/>
 <br/>
-🌱 I’m currently learning trying to get my AWS certification. <br/>
+🌱 I’m currently studying AWS and trying to get my AWS certification. <br/>
 🧮 I'm also working on my greatest weak-point: Data Structure and Algorithms! <br/>
 <br/>
 👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields.<br/> 
