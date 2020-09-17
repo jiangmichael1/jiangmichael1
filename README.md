@@ -47,6 +47,7 @@
   <a href="https://youtu.be/2pqRaRD6gM8">Pet Date</a> 
 </div>
 <h3 align="center"> Udemy Course Projects </h3>
+<p align="center">Deployed through AWS Amplify!</p>
 <div align="center">
   <a href="https://master.dxap86r25zjey.amplifyapp.com">Natours | </a>
   <a href="https://master.dxaildfbk8a8x.amplifyapp.com">Trillo </a>
