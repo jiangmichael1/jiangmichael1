@@ -49,8 +49,9 @@
 <h3 align="center"> Udemy Course Projects </h3>
 <p align="center">Deployed through AWS Amplify!</p>
 <div align="center">
-  <a href="https://master.dxap86r25zjey.amplifyapp.com">Natours | </a>
-  <a href="https://master.dxaildfbk8a8x.amplifyapp.com">Trillo </a>
+  <a href="https://master.dxap86r25zjey.amplifyapp.com">Natours - Intro to Sass  |  </a>
+  <a href="https://master.dxaildfbk8a8x.amplifyapp.com">Trillo - Intro to Flexbox  |  </a>
+  <a href="https://master.d2c273vgjytxlv.amplifyapp.com/">Nexter - Intro to CSS Grid </a>
 </div>
 
 
