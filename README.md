@@ -1,4 +1,5 @@
 <h1 align="center"> 👋 Hey! My name is Michael. 😄 </h1>
+<a href="https://gist.github.com/jiangmichael1/d199dd3aaa99e872f340c8cb2344b26d"><p align="center"> Feel free to checkout my full GitHub resume.</p></a>
 
 <div align="center">
 
