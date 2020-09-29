@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="center">📚 Full Stack Web Developer & Ex-Mental Health Counselor 🍵 </h3>
+<h3 align="center">📚 Full Stack Web Developer ​👨‍💻​ </h3>
 <h4 align="center">✨Proud team member of SanoMind, the Spotify for Mental Health!✨ </h4> <br/>
 
 <p>
