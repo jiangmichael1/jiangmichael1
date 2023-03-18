@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dev_jiams)
 
 </div>
-<h3 align="center">📚 Full Stack Web Developer ​👨‍💻​ </h3>
+<h3 align="center">📚 Data Science Student ​👨‍💻​ </h3>
 
 <!-- <p>
   <a href="https://github.com/jiangmichael1">
