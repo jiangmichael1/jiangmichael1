@@ -10,14 +10,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dev_jiams)
 
 </div>
-<h3 align="center">📚 Data Science Student ​👨‍💻​ </h3>
+<h3 align="center">📚 Data Engineer ​👨‍💻​ </h3>
 
-<h3 align="center"> Project Demos </h3>
-<div align="center">
-  <a href="https://youtu.be/dPf9qrEST_w">Flat News | </a> 
-  <a href="https://youtu.be/MXSXUCAqZrQ">The Flatiron Experience Board Game | </a> 
-  <a href="https://youtu.be/2pqRaRD6gM8">Pet Date</a> 
-</div>
 <p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
 
 <p align="center">👉 <b>Pronouns</b><br/> He/Him/His</p>
