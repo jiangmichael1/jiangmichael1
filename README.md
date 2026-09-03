@@ -12,23 +12,6 @@
 </div>
 <h3 align="center">📚 Data Science Student ​👨‍💻​ </h3>
 
-<!-- <p>
-  <a href="https://github.com/jiangmichael1">
-    <img width="55%" align="right" alt="Mike's github stats" src="https://github-readme-stats.vercel.app/api?username=jiangmichael1&count_private=true&theme=buefy&show_icons=true&hide_border=true" />
-  </a>
--->
-  <code><a href="https://www.ruby-lang.org/en/"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
-  <code><a href="https://www.javascript.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-  <code><a href="https://reactjs.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-  <code><a href="https://www.python.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-  <code><a href="https://sass-lang.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-  <code><a href="https://github.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-  <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-</p>
-<br />
-<br />
-
 <h3 align="center"> Project Demos </h3>
 <div align="center">
   <a href="https://youtu.be/dPf9qrEST_w">Flat News | </a> 
