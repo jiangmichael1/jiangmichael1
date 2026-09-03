@@ -28,11 +28,6 @@
 </p>
 <br />
 <br />
-🌱 I’m currently in school, pursuing an MS in Data Science. <br/>
-🧮 I'm working on my greatest weakpoint: Data Structure and Algorithms! <br/>
-<br/>
-👯 I’m looking to collaborate in the healthcare, productivity, and creativity related tech fields.<br/> 
-🤔 I’m also seeking assistance/mentoring with joining the tech workforce!<br/>
 
 <h3 align="center"> Project Demos </h3>
 <div align="center">
